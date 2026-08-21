@@ -14,7 +14,7 @@ Daily LeetCode grind for campus placements | Python | Arrays → Trees → DP
 
 ## why this exists
 
-I'm a final-year CS student prepping for campus placements (targeting Nov 2026).  
+I'm a final-year CS student prepping for campus placements!  
 This repo is my daily proof of work — not polished, not perfect, just consistent.
 
 solutions auto-pushed via LeetHub every time I hit `Accepted`.
@@ -51,7 +51,7 @@ dsa-practice/
 
 B.Tech CSE @ Manipal University Jaipur  
 building things at the intersection of ML, full-stack, and product  
-[portfolio](https://aastha-kapoor-yjsb.vercel.app) · [linkedin](https://linkedin.com/in/yourhandle) · [github](https://github.com/AasthaKapoor27)
+[portfolio](https://aastha-kappor-portfolio.vercel.app/) · [linkedin](https://www.linkedin.com/in/aastha-kapoor-3707b1284/) · [github](https://github.com/AasthaKapoor27)
 
 ---
 
