@@ -36,6 +36,7 @@ solutions auto-pushed via LeetHub every time I hit `Accepted`.
 
 ## structure
 
+```
 dsa-practice/
 ├── arrays/
 ├── strings/
@@ -43,7 +44,7 @@ dsa-practice/
 ├── trees/
 ├── greedy/
 └── dp/
-
+```
 
 ---
 
