@@ -4,7 +4,9 @@ Daily LeetCode grind for campus placements | Python | Arrays → Trees → DP
 
 *grinding algorithms so the interviews don't grind me*
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)
 ![Status](https://img.shields.io/badge/status-actively_grinding-brightgreen?style=flat-square)
 
