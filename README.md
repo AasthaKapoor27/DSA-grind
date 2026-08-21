@@ -61,3 +61,15 @@ building things at the intersection of ML, full-stack, and product
 <div align="center">
 <sub>consistency > perfection</sub>
 </div>
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/AasthaKapoor27/DSA-grind/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/AasthaKapoor27/DSA-grind/tree/master/0001-two-sum) |
+<!---LeetCode Topics End-->
