@@ -68,8 +68,13 @@ building things at the intersection of ML, full-stack, and product
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AasthaKapoor27/DSA-grind/tree/master/0001-two-sum) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/AasthaKapoor27/DSA-grind/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AasthaKapoor27/DSA-grind/tree/master/0001-two-sum) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/AasthaKapoor27/DSA-grind/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
