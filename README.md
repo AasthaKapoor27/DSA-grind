@@ -75,6 +75,7 @@ building things at the intersection of ML, full-stack, and product
 | ------- |
 | [0001-two-sum](https://github.com/AasthaKapoor27/DSA-grind/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/AasthaKapoor27/DSA-grind/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/AasthaKapoor27/DSA-grind/tree/master/0242-valid-anagram) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -83,4 +84,9 @@ building things at the intersection of ML, full-stack, and product
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/AasthaKapoor27/DSA-grind/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/AasthaKapoor27/DSA-grind/tree/master/0242-valid-anagram) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/AasthaKapoor27/DSA-grind/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
