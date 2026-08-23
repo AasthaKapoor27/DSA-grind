@@ -70,6 +70,7 @@ building things at the intersection of ML, full-stack, and product
 | [0001-two-sum](https://github.com/AasthaKapoor27/DSA-grind/tree/master/0001-two-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AasthaKapoor27/DSA-grind/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/AasthaKapoor27/DSA-grind/tree/master/0217-contains-duplicate) |
+| [0283-move-zeroes](https://github.com/AasthaKapoor27/DSA-grind/tree/master/0283-move-zeroes) |
 ## Hash Table
 |  |
 | ------- |
@@ -89,4 +90,8 @@ building things at the intersection of ML, full-stack, and product
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/AasthaKapoor27/DSA-grind/tree/master/0242-valid-anagram) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/AasthaKapoor27/DSA-grind/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
