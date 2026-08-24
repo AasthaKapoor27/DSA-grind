@@ -69,6 +69,7 @@ building things at the intersection of ML, full-stack, and product
 | ------- |
 | [0001-two-sum](https://github.com/AasthaKapoor27/DSA-grind/tree/master/0001-two-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AasthaKapoor27/DSA-grind/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0169-majority-element](https://github.com/AasthaKapoor27/DSA-grind/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/AasthaKapoor27/DSA-grind/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/AasthaKapoor27/DSA-grind/tree/master/0283-move-zeroes) |
 ## Hash Table
@@ -76,6 +77,7 @@ building things at the intersection of ML, full-stack, and product
 | ------- |
 | [0001-two-sum](https://github.com/AasthaKapoor27/DSA-grind/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AasthaKapoor27/DSA-grind/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0169-majority-element](https://github.com/AasthaKapoor27/DSA-grind/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/AasthaKapoor27/DSA-grind/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/AasthaKapoor27/DSA-grind/tree/master/0242-valid-anagram) |
 ## Dynamic Programming
@@ -85,6 +87,7 @@ building things at the intersection of ML, full-stack, and product
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/AasthaKapoor27/DSA-grind/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/AasthaKapoor27/DSA-grind/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/AasthaKapoor27/DSA-grind/tree/master/0242-valid-anagram) |
 ## String
@@ -104,4 +107,16 @@ building things at the intersection of ML, full-stack, and product
 |  |
 | ------- |
 | [0177-nth-highest-salary](https://github.com/AasthaKapoor27/DSA-grind/tree/master/0177-nth-highest-salary) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/AasthaKapoor27/DSA-grind/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/AasthaKapoor27/DSA-grind/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/AasthaKapoor27/DSA-grind/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
