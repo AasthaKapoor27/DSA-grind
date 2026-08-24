@@ -75,6 +75,7 @@ building things at the intersection of ML, full-stack, and product
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AasthaKapoor27/DSA-grind/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/AasthaKapoor27/DSA-grind/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0217-contains-duplicate](https://github.com/AasthaKapoor27/DSA-grind/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/AasthaKapoor27/DSA-grind/tree/master/0242-valid-anagram) |
 ## Dynamic Programming
@@ -89,9 +90,14 @@ building things at the intersection of ML, full-stack, and product
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/AasthaKapoor27/DSA-grind/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0242-valid-anagram](https://github.com/AasthaKapoor27/DSA-grind/tree/master/0242-valid-anagram) |
 ## Two Pointers
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/AasthaKapoor27/DSA-grind/tree/master/0283-move-zeroes) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/AasthaKapoor27/DSA-grind/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
