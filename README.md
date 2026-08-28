@@ -69,6 +69,7 @@ building things at the intersection of ML, full-stack, and product
 | ------- |
 | [0001-two-sum](https://github.com/AasthaKapoor27/DSA-grind/tree/master/0001-two-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AasthaKapoor27/DSA-grind/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/AasthaKapoor27/DSA-grind/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/AasthaKapoor27/DSA-grind/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/AasthaKapoor27/DSA-grind/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/AasthaKapoor27/DSA-grind/tree/master/0283-move-zeroes) |
@@ -98,6 +99,7 @@ building things at the intersection of ML, full-stack, and product
 ## Two Pointers
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/AasthaKapoor27/DSA-grind/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/AasthaKapoor27/DSA-grind/tree/master/0283-move-zeroes) |
 ## Sliding Window
 |  |
@@ -119,4 +121,8 @@ building things at the intersection of ML, full-stack, and product
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/AasthaKapoor27/DSA-grind/tree/master/0169-majority-element) |
+## Binary Search
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/AasthaKapoor27/DSA-grind/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
