@@ -2,7 +2,7 @@
 Daily LeetCode grind for campus placements | Python | Arrays → Trees → DP
 # 🧠 dsa-practice
 
-*grinding algorithms so the interviews don't grind me*
+*grinding algorithms so the interviews don't grind me*🧿🧿🧿
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
