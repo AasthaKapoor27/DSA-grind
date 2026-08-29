@@ -38,7 +38,7 @@ solutions auto-pushed via LeetHub every time I hit `Accepted`.
 
 ## structure
 
-```
+
 dsa-practice/
 ├── arrays/
 ├── strings/
@@ -46,7 +46,7 @@ dsa-practice/
 ├── trees/
 ├── greedy/
 └── dp/
-```
+
 
 ---
 
@@ -128,3 +128,70 @@ building things at the intersection of ML, full-stack, and product
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AasthaKapoor27/DSA-grind/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
+
+---
+
+# 🎯 Placement Preparation
+
+Along with my daily DSA and SQL practice, this repository also tracks my preparation for campus placements through aptitude and reasoning practice.
+
+The goal is simple:
+
+> **solve → understand → save → revise → repeat 🔥**
+
+---
+
+## 🧩 Placement Practice
+
+| Category | Topics | Status |
+|----------|--------|--------|
+| 🔢 Quantitative Aptitude | Numbers, Percentages, Profit & Loss, Time & Work, Probability | 🔄 In Progress |
+| 🧠 Logical Reasoning | Puzzles, Seating Arrangement, Blood Relations, Syllogism | 🔄 In Progress |
+| 📖 Verbal Ability | Grammar, Vocabulary, Reading Comprehension | ⏳ |
+| 📊 Data Interpretation | Tables, Bar Graphs, Pie Charts, Caselets | ⏳ |
+
+---
+
+## 📂 Aptitude Structure
+
+```text
+Aptitude/
+│
+├── Quantitative-Aptitude/
+│   ├── Number-System/
+│   ├── Simplification/
+│   ├── Percentages/
+│   ├── Profit-and-Loss/
+│   ├── Simple-Interest/
+│   ├── Compound-Interest/
+│   ├── Ratio-and-Proportion/
+│   ├── Average/
+│   ├── Time-and-Work/
+│   ├── Time-Speed-and-Distance/
+│   ├── Permutation-and-Combination/
+│   ├── Probability/
+│   └── Data-Sufficiency/
+│
+├── Logical-Reasoning/
+│   ├── Puzzles/
+│   ├── Seating-Arrangement/
+│   ├── Blood-Relations/
+│   ├── Direction-Sense/
+│   ├── Coding-Decoding/
+│   ├── Number-Series/
+│   ├── Syllogism/
+│   └── Data-Sufficiency/
+│
+├── Verbal-Ability/
+│   ├── Grammar/
+│   ├── Vocabulary/
+│   ├── Sentence-Correction/
+│   ├── Reading-Comprehension/
+│   └── Para-Jumbles/
+│
+└── Data-Interpretation/
+    ├── Tables/
+    ├── Bar-Graphs/
+    ├── Pie-Charts/
+    ├── Line-Graphs/
+    └── Caselets/
